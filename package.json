@@ -1,0 +1,18 @@
+{
+  "name": "dynamic-radio-proxy",
+  "version": "1.0.0",
+  "description": "Simple dynamic radio stream proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "",
+  "license": "MIT"
+}
